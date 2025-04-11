@@ -1,0 +1,10 @@
+[
+  {
+    "type": "Android",
+    "data": ["Samsung Galaxy S21", "Google Pixel 5"]
+  },
+  {
+    "type": "iOS",
+    "data": ["iPhone 13", "iPhone 12"]
+  }
+]

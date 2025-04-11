@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "iPhone 15 Pro",
+    "manufacturer": "Apple",
+    "release_year": 2023,
+    "operating_system": "iOS 17",
+    "processor": "A17 Pro chip",
+    "ram": "8 GB"
+  },
+  {
+    "id": "2",
+    "name": "Samsung Galaxy S23 Ultra",
+    "manufacturer": "Samsung",
+    "release_year": 2023,
+    "operating_system": "Android 13 (One UI 5.1)",
+    "processor": "Snapdragon 8 Gen 2",
+    "ram": "12 GB"
+  },
+  {
+    "id": "3",
+    "name": "Google Pixel 8 Pro",
+    "manufacturer": "Google",
+    "release_year": 2023,
+    "operating_system": "Android 14",
+    "processor": "Google Tensor G3",
+    "ram": "12 GB"
+  },
+  {
+    "id": "4",
+    "name": "OnePlus 11",
+    "manufacturer": "OnePlus",
+    "release_year": 2023,
+    "operating_system": "Android 13 (OxygenOS 13)",
+    "processor": "Snapdragon 8 Gen 2",
+    "ram": "16 GB"
+  },
+  {
+    "id": "5",
+    "name": "Xiaomi 13 Pro",
+    "manufacturer": "Xiaomi",
+    "release_year": 2023,
+    "operating_system": "Android 13 (MIUI 14)",
+    "processor": "Snapdragon 8 Gen 2",
+    "ram": "12 GB"
+  },
+  {
+    "id": "6",
+    "name": "Xiaomi 13 Pro",
+    "manufacturer": "Xiaomi",
+    "release_year": 2023,
+    "operating_system": "Android 13 (MIUI 14)",
+    "processor": "Snapdragon 8 Gen 2",
+    "ram": "12 GB"
+  },
+  {
+    "id": "7",
+    "name": "Xiaomi 13 Pro",
+    "manufacturer": "Xiaomi",
+    "release_year": 2023,
+    "operating_system": "Android 13 (MIUI 14)",
+    "processor": "Snapdragon 8 Gen 2",
+    "ram": "12 GB"
+  },
+  {
+    "id": "8",
+    "name": "Xiaomi 13 Pro",
+    "manufacturer": "Xiaomi",
+    "release_year": 2023,
+    "operating_system": "Android 13 (MIUI 14)",
+    "processor": "Snapdragon 8 Gen 2",
+    "ram": "12 GB"
+  },
+  {
+    "id": "9",
+    "name": "Xiaomi 13 Pro",
+    "manufacturer": "Xiaomi",
+    "release_year": 2023,
+    "operating_system": "Android 13 (MIUI 14)",
+    "processor": "Snapdragon 8 Gen 2",
+    "ram": "12 GB"
+  },
+  {
+    "id": "10",
+    "name": "Xiaomi 13 Pro",
+    "manufacturer": "Xiaomi",
+    "release_year": 2023,
+    "operating_system": "Android 13 (MIUI 14)",
+    "processor": "Snapdragon 8 Gen 2",
+    "ram": "12 GB"
+  }
+]
