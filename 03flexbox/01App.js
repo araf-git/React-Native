@@ -28,3 +28,4 @@ const styles = StyleSheet.create({
 });
 
 // on react native, view is by default flexbox. so i dont need to set display: flex
+// flexDirection: 'column' is the default in React Native

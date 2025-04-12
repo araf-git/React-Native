@@ -1,6 +1,6 @@
 // SafeAreaView - adds padding to top and bottom. specific to ios
-// for android -> use paddingTop: StatusBar.currentHeight -> is will add padding to top equal to the status bar height
-// SafeAreaView is used in React Native to ensure that content is rendered within the safe boundaries of a device's screen, avoiding areas like the notch, status bar, or bottom gesture area, especially on iOS devices.
+// for android -> use paddingTop: StatusBar.currentHeight -> this will add padding to top equal to the status bar height
+// The purpose of SafeAreaView is to render content within the safe area boundaries of a device. It is currently only applicable to iOS devices with iOS version 11 or later.
 
 import { StyleSheet, SafeAreaView, Text, StatusBar } from "react-native";
 

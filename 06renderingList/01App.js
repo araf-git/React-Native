@@ -6,14 +6,13 @@ import {
   Text,
   View,
   ScrollView,
-  SafeAreaView,
   StatusBar,
 } from "react-native";
 import phoneList from "./data.json";
 
 export default function App() {
   return (
-    <SafeAreaView style={styles.container}>
+    <View style={styles.container}>
       <ScrollView style={{ paddingHorizontal: 16 }}>
         {phoneList.map((phone) => {
           return (
@@ -28,7 +27,7 @@ export default function App() {
           );
         })}
       </ScrollView>
-    </SafeAreaView>
+    </View>
   );
 }
 
