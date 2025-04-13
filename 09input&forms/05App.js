@@ -22,7 +22,7 @@ export default function App() {
       style={styles.container}
     >
 
-      {/* KeyboardAvoidingView behavior="padding" this adds padding on bottom of this component equal to keyboard size. so the input fiels is visible when keyboard appears*/}
+      {/* KeyboardAvoidingView behavior="padding" this adds padding on bottom of this component equal to keyboard size. so the input field is visible when keyboard appears*/}
       {/* keyboardVerticalOffset={Platform.OS === "ios" ? 100 : 0} set this prop when image height increases from 200 to 400 */}
 
       <View style={styles.form}>
